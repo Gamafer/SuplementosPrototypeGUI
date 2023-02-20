@@ -1,0 +1,14 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource>
+        <file>icons/inventory.png</file>
+        <file>icons/sale.png</file>
+        <file>icons/adminlock.png</file>
+        <file>icons/adminunlock.png</file>
+        <file>icons/users.png</file>
+        <file>icons/edit_inventory.png</file>
+        <file>icons/report.png</file>
+
+        <file>icons/search.png</file>
+    </qresource>
+</RCC>
